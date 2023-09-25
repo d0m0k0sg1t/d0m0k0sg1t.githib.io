@@ -1,0 +1,27 @@
+main img {
+  max-width: 10%;
+  height: auto;
+  margin-left: 38%;
+  padding-top: 2%;
+}
+
+header {
+  max-width: 100%;
+  height: auto;
+  margin-left: 45%;
+  padding-bottom: 5%;
+}
+.buttons {
+  display: flex;
+  flex-direction: column;
+  width: 15%;
+}
+
+#top {
+  margin-left: 48%;
+  margin-top: 25%;
+  text-transform: capitalize;
+}
+body {
+  padding: 5%;
+}
